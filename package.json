@@ -1,0 +1,19 @@
+{
+  "name": "nodecrudapi1",
+  "version": "1.0.0",
+  "description": "node is created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdul1497/nodecrudapi1.git"
+  },
+  "author": "rehman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdul1497/nodecrudapi1/issues"
+  },
+  "homepage": "https://github.com/abdul1497/nodecrudapi1#readme"
+}
